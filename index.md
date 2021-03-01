@@ -2,7 +2,11 @@
 
 
 
-You can see an online demo now by [ clicking here ](https://posverda.de/).
+You can see an online demo now: [ click here ](https://posverda.de/)
+
+# 
+
+![posverda.de Main Page](posverda-de-fake-news-detection-projetc.png)
 
 ### Coming soon
 
